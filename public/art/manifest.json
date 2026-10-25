@@ -1,0 +1,11 @@
+{
+  "sprites": {
+    "rat": { "src": "sprites/_example_rat_sheet.png", "dirs": 4, "frames": 2, "fps": 5 },
+    "pump": { "src": "sprites/_example_pump_sheet.png", "dirs": 4, "frames": 2, "fps": 4 }
+  },
+  "weapons": {
+    "sidearm": { "src": "weapons/_example_sidearm_sheet.png", "frames": 4 }
+  },
+  "world": {},
+  "ui": {}
+}

@@ -1,0 +1,17 @@
+# 依赖与构建产物
+node_modules/
+dist/
+*.local
+
+# 浏览器实测截图（临时）
+.tmp_*.png
+
+# 编辑器 / 系统
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# 日志
+npm-debug.log*
+yarn-error.log*
